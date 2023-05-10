@@ -1,0 +1,43 @@
+.header {
+    border: 1px solid coral;
+}
+
+.menu {
+    border: 2px groove blue;
+}
+
+.topheading {
+    border: 1px solid green;
+}
+
+.toptext {
+    border: 2px solid purple;
+}
+
+.content {
+    border: 10 px solid yellow;
+}
+
+.contentheading {
+    border: 5 px solid palevioletred;
+}
+
+.contenttext {
+    border: 1 px solid black;
+}
+
+.project {
+    border: 1 px solid greenyellow;
+}
+
+.footer {
+    border: 2px solid gray;
+}
+
+.offer {
+    border: 2 px groove cornflowerblue;
+}
+
+.contacts {
+    border: 1 px solid blueviolet
+}
